@@ -1,0 +1,29 @@
+Script started on Wed 17 Feb 2021 06:09:22 PM PST
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[?1034h[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m ls
+proj1.class  proj1.java  proj1TestRunOne
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m v[Kjavac proj1.java
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m java proj1
+Enter the individual key values (positive or negative integers, one after another in the same line with a blank between two values): 
+5 12 -3 8 -9 4 10
+Enter a string to be encoded: 
+All programmers are playwrights and all computers are lousy actors.
+Encoded message: 
+Fxi(gvyl~^udi|x,^z\$zqmv imqm!p(Xrn%mitvgyr|r|\v}%momvpyz v(Xg~t~p6
+Decoded message: 
+All programmers are playwrights and all computers are lousy actors.
+Do you want the program run again (y for yes and n for no)?: 
+y
+Enter the individual key values (positive or negative integers, one after another in the same line with a blank between two values): 
+5 12 -3 8 -9 4 10
+Enter a string to be encoded: 
+All programmers are playwrights and all computers are lousy actors.
+Encoded message: 
+Fxi(gvyl~^udi|x,^z\$zqmv imqm!p(Xrn%mitvgyr|r|\v}%momvpyz v(Xg~t~p6
+Decoded message: 
+All programmers are playwrights and all computers are lousy actors.
+Do you want the program run again (y for yes and n for no)?: 
+no 
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m quit[K[K[K[Kexit
+exit
+
+Script done on Wed 17 Feb 2021 06:11:18 PM PST

@@ -1,0 +1,29 @@
+Script started on Wed 17 Feb 2021 06:12:51 PM PST
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[?1034h[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m ls
+proj1.class  proj1.java  proj1TestRunOne  typescript
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m javac proj1.java
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m ls[K[Kjava proj1
+Enter the individual key values (positive or negative integers, one after another in the same line with a blank between two values): 
+1 8 9 10 14
+Enter a string to be encoded: 
+Pa  Bo and Dlaton     alton and  re comp sci partners
+Encoded message: 
+Cw)k|e(Mkzuww*osm)m}nx)}qj(yk!uvn|"
+Decoded message: 
+Bo and Dalton are comp sci partners
+Do you want the program run again (y for yes and n for no)?: 
+y
+Enter the individual key values (positive or negative integers, one after another in the same line with a blank between two values): 
+2 5 -8 1 20
+Enter a string to be encoded: 
+We wish we had              We lik      We have coded the Caesar Cipher.
+Encoded message: 
+Yjwiuxjwd$fj\!)jjwDugxYs4Enhiyt3
+Decoded message: 
+We have coded the Caesar Cipher.
+Do you want the program run again (y for yes and n for no)?: 
+n
+]0;rkulbacki@bec307dl03:~/comp230/projects/proj1[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mproj1(B[m[38;5;15m>(B[m quit[K[K[K[Kexit
+exit
+
+Script done on Wed 17 Feb 2021 06:14:56 PM PST
